@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586211802452",
+    "project_id": "quiz-challenge-d3cc4",
+    "storage_bucket": "quiz-challenge-d3cc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586211802452:android:d2cb9ce310a84087e19cc1",
+        "android_client_info": {
+          "package_name": "br.com.bb.nxrquizchallenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJGB3jeaAa2zZaFFHqXGC-DPcWWrGzGxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
